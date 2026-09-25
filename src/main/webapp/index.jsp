@@ -22,7 +22,7 @@
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
             <li class="nav-items"><a href="#">TV</a></li>
-            <li class="nav-items"><a href="#">CINEMAS</a></li>
+            <li class="nav-items"><a href="#">hotstar cinema</a></li>
             <li class="nav-items"><a href="#"> SHRE</a></li>
             <li class="nav-items"><a href="#"> my songs </a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
